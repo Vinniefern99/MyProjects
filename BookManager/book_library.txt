@@ -1,0 +1,23 @@
+1_The Poet_Connelly, Michael_1996
+2_Ireland_Delaney, Frank_2005
+3_Animal Farm_Orwell, George_1946
+4_The Manhatten Hunt Club_Saul, John_2001
+5_On Natural Selection_Darwin, Charles_1859
+6_I Hope They Serve Beer in Hell_Max, Tucker_2006
+7_The Girl wit the Dragon Tattoo_Larsson, Stieg_2008
+8_Metamorphoses_Zimmerman, Mary_2002
+9_The Cherry Orchard_Chekhov, Anton_1929
+10_A Raisin in the Sun_Hansberry, Lorraine_1958
+11_Bury My Heart at Wounded Knee_Brown, Dee_1970
+12_Theatre of the Oppressed_Boal, Augusto_1979
+13_Death of a Salesman_Miller, Authur_1949
+14_Tarzan of the Apes_Burroughs, Edgar Rice_1914
+15_Brief Interviews with Hideous Men_Wallace, David Foster_2007
+16_Midsummer Night's Dream_Shakespeare, William_1600
+17_Faust_Wolfgang von Goethe, Johann_1962
+18_Joe Turner's Come and Gone_Wilson, August_1988
+19_The Glass Menagerie_Williams, Tennessee_1945
+20_Our Town_Wilder, Thornton_1938
+21_One Flew Over the Cuckoo's Nest_Wasserman, Dale_1970
+22_Arcadia_Stoppard, Tom_1993
+23_Antigone_Sophocles_1973
